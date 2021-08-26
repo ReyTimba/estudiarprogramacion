@@ -1,0 +1,35 @@
+header{
+  width: auto;
+  background-color: #000;
+}
+.allMenu{
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 1000px;
+  height: auto;
+  margin-left: auto;
+  margin-right:  auto;
+  background-color: #000;
+}
+#menu{
+  margin-left: 250px;
+}
+#menu li{
+  display: inline-block;
+  margin-right: 20px;
+/*  border: 1px solid green;*/
+}
+#logo{
+  margin-right: 100px;
+  float: left;
+}
+nav{
+  width: auto;
+  position: absolute;
+  background-color: #315e01;
+}
+ #img1, #img2{
+  position: absolute;
+  visibility: visible;
+  display: inline;
+}
